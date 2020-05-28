@@ -1,4 +1,6 @@
 # Simple Kanban Board
-![preview](https://media.giphy.com/media/RfMzaa3e9I25rTHvZk/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/d8EZiz3EwBGrTPYP92/giphy.gif">
+</p>
 
 Test project in [codepen](https://codepen.io/rhuangabrielsantos/full/eYpwOOv)
